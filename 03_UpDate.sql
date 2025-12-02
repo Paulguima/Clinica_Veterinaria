@@ -1,4 +1,4 @@
---- UPDATE - Atualizações SQ----
+--- UPDATE - Atualizações SQL----
 
 update cliente
  set nome = 'João' 
